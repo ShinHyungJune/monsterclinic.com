@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="349" height="583" viewBox="0 0 349 583">
+  <defs>
+    <filter id="사각형_34" x="174" y="88" width="175" height="71" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="사각형_33" x="87.004" y="0" width="175" height="71" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="사각형_34-2" x="1" y="88" width="175" height="71" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="사각형_34-3" x="0" y="168" width="173" height="207" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="사각형_2557" x="0" y="376" width="173" height="207" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="사각형_34-4" x="174" y="168" width="175" height="207" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="사각형_2558" x="174" y="376" width="175" height="207" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="organization-m" transform="translate(-12.75 -619.5)">
+    <g transform="matrix(1, 0, 0, 1, 12.75, 619.5)" filter="url(#사각형_34)">
+      <g id="사각형_34-5" data-name="사각형 34" transform="translate(181.5 92.5)" fill="#fff" stroke="#ffc80d" stroke-width="1">
+        <rect width="160" height="56" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="55" fill="none"/>
+      </g>
+    </g>
+    <line id="선_7" data-name="선 7" x2="160" transform="translate(194.25 768.5)" fill="none" stroke="#ffc80d" stroke-width="4"/>
+    <path id="패스_4" data-name="패스 4" d="M0,0H24L0,24Z" transform="translate(195 712)" fill="#ffc80d"/>
+    <text id="경영관리부" transform="translate(236.153 748)" fill="#575757" font-size="17" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.025em"><tspan x="0" y="0">경영관리부</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 12.75, 619.5)" filter="url(#사각형_33)">
+      <g id="사각형_33-2" data-name="사각형 33" transform="translate(94.5 4.5)" fill="#fff" stroke="#f47a20" stroke-width="1">
+        <rect width="160" height="56" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="55" fill="none"/>
+      </g>
+    </g>
+    <text id="대표이사" transform="translate(157.254 660)" fill="#575757" font-size="17" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700" letter-spacing="-0.025em"><tspan x="0" y="0">대표이사</tspan></text>
+    <line id="선_6" data-name="선 6" x2="159.993" transform="translate(107.753 680.168)" fill="none" stroke="#f47a20" stroke-width="4"/>
+    <path id="패스_3" data-name="패스 3" d="M0,0H24L0,24Z" transform="translate(107.254 624)" fill="#f47a20"/>
+    <g transform="matrix(1, 0, 0, 1, 12.75, 619.5)" filter="url(#사각형_34-2)">
+      <g id="사각형_34-6" data-name="사각형 34" transform="translate(8.5 92.5)" fill="#fff" stroke="#ffc80d" stroke-width="1">
+        <rect width="160" height="56" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="55" fill="none"/>
+      </g>
+    </g>
+    <line id="선_7-2" data-name="선 7" x2="160" transform="translate(20.75 768.5)" fill="none" stroke="#ffc80d" stroke-width="4"/>
+    <path id="패스_4-2" data-name="패스 4" d="M0,0H24L0,24Z" transform="translate(21.25 712)" fill="#ffc80d"/>
+    <text id="기업부설연구소" transform="translate(47.25 748)" fill="#575757" font-size="17" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.025em"><tspan x="0" y="0">기업부설연구소</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 12.75, 619.5)" filter="url(#사각형_34-3)">
+      <g id="사각형_34-7" data-name="사각형 34" transform="translate(7.5 172.5)" fill="#fff" stroke="#cbcbcb" stroke-width="1">
+        <rect width="158" height="192" stroke="none"/>
+        <rect x="0.5" y="0.5" width="157" height="191" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 12.75, 619.5)" filter="url(#사각형_2557)">
+      <g id="사각형_2557-2" data-name="사각형 2557" transform="translate(7.5 380.5)" fill="#fff" stroke="#cbcbcb" stroke-width="1">
+        <rect width="158" height="192" stroke="none"/>
+        <rect x="0.5" y="0.5" width="157" height="191" fill="none"/>
+      </g>
+    </g>
+    <line id="선_7-3" data-name="선 7" x2="158" transform="translate(20.75 984.168)" fill="none" stroke="#a8a8a8" stroke-width="4"/>
+    <line id="선_1438" data-name="선 1438" x2="158" transform="translate(20.75 1192.168)" fill="none" stroke="#a8a8a8" stroke-width="4"/>
+    <text id="정보통신사업부" transform="translate(99.25 827)" fill="#575757" font-size="16" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.025em"><tspan x="-50.32" y="0">정보통신사업부</tspan></text>
+    <text id="전기_사업부" data-name="전기 사업부" transform="translate(99.25 1035)" fill="#575757" font-size="16" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.025em"><tspan x="-37.592" y="0">전기 사업부</tspan></text>
+    <rect id="사각형_35" data-name="사각형 35" width="126" height="40" transform="translate(36.25 848)" fill="#f6f4f2"/>
+    <rect id="사각형_2559" data-name="사각형 2559" width="126" height="40" transform="translate(36.25 1056)" fill="#f6f4f2"/>
+    <rect id="사각형_2526" data-name="사각형 2526" width="126" height="40" transform="translate(36.25 888)" fill="#f6f4f2"/>
+    <rect id="사각형_2560" data-name="사각형 2560" width="126" height="40" transform="translate(36.25 1096)" fill="#f6f4f2"/>
+    <rect id="사각형_2527" data-name="사각형 2527" width="126" height="40" transform="translate(36.25 928)" fill="#f6f4f2"/>
+    <rect id="사각형_2561" data-name="사각형 2561" width="126" height="40" transform="translate(36.25 1136)" fill="#f6f4f2"/>
+    <text id="CCTV" transform="translate(98.25 874)" fill="#575757" font-size="14" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-weight="300" letter-spacing="-0.025em"><tspan x="-15.848" y="0">CCTV</tspan></text>
+    <text id="전기공사" transform="translate(98.25 1082)" fill="#575757" font-size="14" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-weight="300" letter-spacing="-0.025em"><tspan x="-25.235" y="0">전기공사</tspan></text>
+    <text id="망분리_서버구축" data-name="망분리, 서버구축" transform="translate(99.25 914)" fill="#575757" font-size="14" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-weight="300" letter-spacing="-0.025em"><tspan x="-46.984" y="0">망분리, 서버구축</tspan></text>
+    <text id="수배전반" transform="translate(98.25 1122)" fill="#575757" font-size="14" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-weight="300" letter-spacing="-0.025em"><tspan x="-25.235" y="0">수배전반</tspan></text>
+    <text id="유지보수" transform="translate(98.25 954)" fill="#575757" font-size="14" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-weight="300" letter-spacing="-0.025em"><tspan x="-25.235" y="0">유지보수</tspan></text>
+    <text id="태양광" transform="translate(98.25 1162)" fill="#575757" font-size="14" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-weight="300" letter-spacing="-0.025em"><tspan x="-18.97" y="0">태양광</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 12.75, 619.5)" filter="url(#사각형_34-4)">
+      <g id="사각형_34-8" data-name="사각형 34" transform="translate(181.5 172.5)" fill="#fff" stroke="#cbcbcb" stroke-width="1">
+        <rect width="160" height="192" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="191" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 12.75, 619.5)" filter="url(#사각형_2558)">
+      <g id="사각형_2558-2" data-name="사각형 2558" transform="translate(181.5 380.5)" fill="#fff" stroke="#cbcbcb" stroke-width="1">
+        <rect width="160" height="192" stroke="none"/>
+        <rect x="0.5" y="0.5" width="159" height="191" fill="none"/>
+      </g>
+    </g>
+    <line id="선_7-4" data-name="선 7" x2="160" transform="translate(194.75 984)" fill="none" stroke="#a8a8a8" stroke-width="4"/>
+    <line id="선_1439" data-name="선 1439" x2="160" transform="translate(194.75 1192)" fill="none" stroke="#a8a8a8" stroke-width="4"/>
+    <text id="ICT_사업부" data-name="ICT 사업부" transform="translate(274.25 827)" fill="#575757" font-size="16" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.025em"><tspan x="-34.752" y="0">ICT 사업부</tspan></text>
+    <text id="엔지니어링_사업부" data-name="엔지니어링 사업부" transform="translate(274.25 1035)" fill="#575757" font-size="16" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.025em"><tspan x="-59.072" y="0">엔지니어링 사업부</tspan></text>
+    <rect id="사각형_35-2" data-name="사각형 35" width="128" height="40" transform="translate(210.25 848)" fill="#f6f4f2"/>
+    <rect id="사각형_2562" data-name="사각형 2562" width="128" height="40" transform="translate(210.25 1056)" fill="#f6f4f2"/>
+    <rect id="사각형_2526-2" data-name="사각형 2526" width="128" height="40" transform="translate(210.25 888)" fill="#f6f4f2"/>
+    <rect id="사각형_2563" data-name="사각형 2563" width="128" height="40" transform="translate(210.25 1096)" fill="#f6f4f2"/>
+    <rect id="사각형_2527-2" data-name="사각형 2527" width="128" height="40" transform="translate(210.25 928)" fill="#f6f4f2"/>
+    <rect id="사각형_2564" data-name="사각형 2564" width="128" height="40" transform="translate(210.25 1136)" fill="#f6f4f2"/>
+    <text id="문자솔루션" transform="translate(274.25 874)" fill="#575757" font-size="14" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-weight="300" letter-spacing="-0.025em"><tspan x="-31.5" y="0">문자솔루션</tspan></text>
+    <text id="설계" transform="translate(274.25 1082)" fill="#575757" font-size="14" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-weight="300" letter-spacing="-0.025em"><tspan x="-12.705" y="0">설계</tspan></text>
+    <text id="IoT빌딩자동제어" transform="translate(274.25 914)" fill="#575757" font-size="14" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-weight="300" letter-spacing="-0.025em"><tspan x="-46.949" y="0">IoT빌딩자동제어</tspan></text>
+    <text id="설치_시공" data-name="설치, 시공" transform="translate(274.25 1122)" fill="#575757" font-size="14" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-weight="300" letter-spacing="-0.025em"><tspan x="-28.189" y="0">설치, 시공</tspan></text>
+    <text id="출입통제_계장제어" data-name="출입통제, 계장제어" transform="translate(274.25 954)" fill="#575757" font-size="14" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-weight="300" letter-spacing="-0.025em"><tspan x="-53.249" y="0">출입통제, 계장제어</tspan></text>
+    <text id="유지보수-2" data-name="유지보수" transform="translate(274.25 1162)" fill="#575757" font-size="14" font-family="NotoSansCJKkr-Light, Noto Sans CJK KR" font-weight="300" letter-spacing="-0.025em"><tspan x="-25.235" y="0">유지보수</tspan></text>
+  </g>
+</svg>
