@@ -28,8 +28,9 @@ textarea {resize: none; font-family: 'pretendard', sans-serif;}
 .mb{display: none;}
 
 /* header */
-#header { position: fixed; top: 0; left: 0; right: 0; width: 100%; z-index: 99999; }
-.header-wrap { background: #fff; }
+/* #header { position: fixed; top: 0; left: 0; right: 0; width: 100%; z-index: 99999; } */
+#header { position: absolute; width: 100%; }
+.header-wrap { background: #fff;}
 .header-wrap .container { width: 1280px; height: 100%; justify-content: space-between; align-items: center; }
 .header-wrap .logo-wrap { height: 100px; align-items: center; justify-content: center; border-bottom: 1px solid #fff;}
 .header-wrap .logo { width: 230px; }
@@ -69,6 +70,8 @@ textarea {resize: none; font-family: 'pretendard', sans-serif;}
 .top-menu li:nth-child(2) .btn, .top-menu li:nth-child(2) .hover-btn { background: #943839; }
 .top-menu li:nth-child(3) .btn, .top-menu li:nth-child(3) .hover-btn { background: #32b44a; }
 .top-menu li:nth-child(4) .btn, .top-menu li:nth-child(4) .hover-btn { background: #fae300; }
+.top-menu li:nth-child(5) .hover-btn { background: radial-gradient(circle farthest-corner at 32% 106%,#ffe17d 0%,#ffcd69 10%,#fa9137 28%,#eb4141 42%,transparent 82%) , linear-gradient(135deg,#234bd7 12%,#c33cbe 58%) }
+
 .top-menu li:nth-child(4) .hover-btn p { color: #391b1b; }
 .top-menu li:hover .hover-btn p { opacity: 1; }
 .top-menu li:last-child { width: 60px; height: 60px; border-radius: 40px; background: #363636; text-align: center; display: flex; flex-flow: column; justify-content: center; transition: .3s; }
