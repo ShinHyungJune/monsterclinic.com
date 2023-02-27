@@ -27,9 +27,11 @@
     <link rel="stylesheet" type="text/css" href="./css/common.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css" />
     <link rel="stylesheet" type="text/css" href="./css/style.css">
+    <script> (function(d) { var config = { kitId: 'nws2cub', scriptTimeout: 3000, async: true }, h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s) })(document); </script>
     <!-- 애니메이션 플러그인 -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+
 </head>
 
 <body>
@@ -37,6 +39,16 @@
         <!-- header -->
         <header id="header"></header>
         <!-- //header -->
+        <div class="layerPopup">
+            <div class="layerBox">
+                <div class="img-wrap">
+                    <img src="./images/event.jpg" alt="몬스터클리닉">
+                </div>
+                <div class="btn-wrap">
+                    <button>닫기</button>
+                </div>
+            </div>
+        </div>
 
         <!-- main -->
         <main>
@@ -175,7 +187,7 @@
                 
             </section>
             <section>
-                <img src="images/mainpage.jpg" alt="">
+                <img src="images/mainpage.png" alt="">
             </section>
         </main>
         <!-- //main -->
@@ -191,14 +203,14 @@
         <script src="js/script.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
         <script>
-            (function(d) {
-            var config = {
-                kitId: 'zow3aji',
-                scriptTimeout: 3000,
-                async: true
-            },
-            h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f%7C%7Ca&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-            })(document);
+
+
+    $(function () {
+        $(".btn-wrap button").click(function () {
+            $(".layerPopup").css('display','none');
+        })
+    });
+    
         </script>
     </div>
 </body>

@@ -43,4 +43,45 @@
     .main-section.best .sec-con li> .txt-box h3 { white-space: nowrap;}
 }
     
-    
+.layerPopup{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    z-index: 99999;
+    transform: translate(-50% , -50%);
+}
+
+.layerPopup .layerBox {
+    box-shadow: 0px 3px 6px rgb(0 0 0 / 16%);
+    background-color: #56231F;
+    width: 500px;
+}
+.layerPopup .layerBox .btn-wrap {
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+}
+.layerPopup .layerBox .btn-wrap button {
+    color: #fff;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+
+.layerPopup .layerBox .btn-wrap a {
+    color: #fff;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 500px){
+.layerPopup .layerBox {
+    width: 100%;
+    max-width: calc(100% - 20px);
+}
+}
