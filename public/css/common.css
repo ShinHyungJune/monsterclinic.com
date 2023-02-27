@@ -29,6 +29,12 @@ textarea {resize: none; font-family: 'pretendard', sans-serif;}
 
 /* header */
 /* #header { position: fixed; top: 0; left: 0; right: 0; width: 100%; z-index: 99999; } */
+@font-face {
+    font-family: 'NotoSerifKR';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NotoSerifKR.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 #header { position: absolute; width: 100%; }
 .header-wrap { background: #fff;}
 .header-wrap .container { width: 1280px; height: 100%; justify-content: space-between; align-items: center; }
@@ -37,12 +43,12 @@ textarea {resize: none; font-family: 'pretendard', sans-serif;}
 .header-wrap .main-menu { height: 56px; transition: .3s; position: relative; }
 .header-wrap .main-menu { background: #7a2e26; }
 .header-wrap .main-menu> ul li { width: calc( 100% / 8 ); text-align: center; }
-.header-wrap .main-menu> ul li a { font-size: 18px; font-weight: 300; transition: .3s; color: #fff; }
+.header-wrap .main-menu> ul li a { font-family: 'NotoSerifKR'; font-size: 18px; font-weight: 300; transition: .3s; color: #fff; }
 .header-wrap .sub-menu { background: rgba(255, 255, 255, 0.85);box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16); display: none; }
 .header-wrap .sub-menu .container { align-items: unset; }
 .header-wrap .sub-menu ul { width: calc( 100% / 8 ); text-align: center; }
 .header-wrap .sub-menu ul li { width: 100%; height: 48px; display: flex; align-items: center; font-size: 16px; font-weight: 300; transition: .3s; position: relative;  }
-.header-wrap .sub-menu ul li a { width: fit-content; margin: 0 auto; font-size: 16px; font-weight: 300; transition: .3s; position: relative; color: #333; }
+.header-wrap .sub-menu ul li a { font-family: 'NotoSerifKR'; width: fit-content; margin: 0 auto; font-size: 16px; font-weight: 300; transition: .3s; position: relative; color: #333; }
 .header-wrap .sub-menu ul li a::after { content: ""; display: block; position: absolute; left: 0; width: 0; height: 1px; background: #7a2e26; bottom: -2px; transition: .3s; }
 .header-wrap .sub-menu ul li a:hover { color: #7a2e26; }
 .header-wrap .sub-menu ul li a:hover::after { width: 100%; }
